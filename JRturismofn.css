@@ -1,0 +1,36 @@
+body{     
+    margin: 0;
+    background: url(./fernando-de-noronha.jpg) no-repeat
+    center center / cover;
+}
+
+h1{
+    text-align: center;
+    color: #FFFFFF;
+background: #232323;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #fafa0a, 0 0 30px #fafa0a, 0 0 40px #fafa0a, 0 0 55px #fafa0a, 0 0 75px #fafa0a;
+color: #FFFFFF;
+background: transparent;
+}
+
+.conteudo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.conteudo img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.texto{
+    max-width: 600px;
+    color: yellow;
+}
+
+
+
